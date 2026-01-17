@@ -1,5 +1,5 @@
 # flac_directory
-Just a little python script to convert all uncompressed WAV audio files in a directory (and optionally all subdirectories) to FLAC for long-term storage. Can also convert the FLAC files back to WAV if needed and delete files after completion. Compression statistics are displayed at script completion.
+Just a little python script to convert all uncompressed WAV audio files in a directory (and optionally all subdirectories) to FLAC for long-term storage. Can also convert the FLAC files back to WAV if needed and delete files after completion. Compression statistics are displayed at script completion. Uses FFmpeg.
 
 ## Usage
 ```
